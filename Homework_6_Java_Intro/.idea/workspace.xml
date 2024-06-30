@@ -27,24 +27,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Java__Intro",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ma/Documents/GitHub/-QA_Auto_Homework_1_Marta_M/Homework_6_Java_Intro"
+    "last_opened_file_path": "C:/Users/Ma/Documents/GitHub/Homework_7_Java_Operators_Conditions/JavaOperatorsAndConditions"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Homework_6_Java_Intro" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
