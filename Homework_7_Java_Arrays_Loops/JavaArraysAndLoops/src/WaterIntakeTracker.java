@@ -6,8 +6,12 @@ public class WaterIntakeTracker {
         int i = 0;
 
         while (i < WaterIntake.length) {
+            if (WaterIntake[i] >= 3){
 
-            sum += WaterIntake[i];
+
+
+            sum += WaterIntake[i];}
+
             i++;
         }
 

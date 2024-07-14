@@ -10,16 +10,23 @@ public class StudentSearch {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Pleas enter the number of grade transcript: ");
         int searchID = scanner.nextInt();
+        boolean found = false;
 
-        for (int i = 1; i < studentIDs.length; i++);{
 
-        if (searchID == studentIDs[0]) {
+        for (int id : studentIDs) {
+            if (id == searchID) {
 
+
+                found = true;
+
+            }
+        }
+        if (found){
             System.out.println("Student grade transcript wos found: " + searchID);
         }
-        else
+        else{
         {
-            System.out.println("Student grade transcript wos not found: ");}
+            System.out.println("Student grade transcript wos not found");}
 
         }
 
