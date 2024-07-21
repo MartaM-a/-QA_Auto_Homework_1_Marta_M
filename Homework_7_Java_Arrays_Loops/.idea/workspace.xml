@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec7fdcf1-5a7f-448f-a9f5-0984e0d0406a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/JavaArraysAndLoops/src/StrongestRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaArraysAndLoops/src/StrongestRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaArraysAndLoops/src/StudentSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaArraysAndLoops/src/StudentSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaArraysAndLoops/src/WaterIntakeTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaArraysAndLoops/src/WaterIntakeTracker.java" afterDir="false" />
-    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "java__arrays__and__loops",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ma/Documents/GitHub/-QA_Auto_Homework_1_Marta_M/Homework_7_Java_Arrays_Loops"
+
   }
 }]]></component>
   <component name="RunManager" selected="Application.StudentSearch">
