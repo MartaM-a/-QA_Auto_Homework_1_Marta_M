@@ -21,15 +21,8 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Java__Intro",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ma/Documents/GitHub/Homework_7_Java_Operators_Conditions/JavaOperatorsAndConditions"
-  }
-}]]></component>
+
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
