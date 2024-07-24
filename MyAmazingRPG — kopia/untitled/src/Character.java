@@ -20,7 +20,7 @@ public class Character {
 
     public void takeDamege(int damage) {
         this.health -= damage;
-        if (damage > 0);
+
     }
 
     public void attack (Character other) {
@@ -37,9 +37,9 @@ public class Character {
     public void displayStatus () {
 
         System.out.println("           Name " + this.name);
-        System.out.println("              Health " + this.health);
-        System.out.println("                   Strenght " + this.strenght);
-        System.out.println("                        Defense " + this.defense);
+        System.out.println("           Health " + this.health);
+        System.out.println("           Strenght " + this.strenght);
+        System.out.println("           Defense " + this.defense);
     }
 
 
