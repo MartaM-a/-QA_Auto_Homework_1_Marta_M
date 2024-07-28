@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e715e812-c0f9-44c9-a24c-b41bd3878c55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MessageInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyAmazingRPG — kopia/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e715e812-c0f9-44c9-a24c-b41bd3878c55" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "ArrayList__LinkedList__HashSet__HashMap",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ma/Documents/GitHub",
     "onboarding.tips.debug.path": "C:/Users/Ma/Documents/GitHub/-QA_Auto_Homework_1_Marta_M/Homework_10_Messenger/untitled/src/Main.java"
   }
 }]]></component>
